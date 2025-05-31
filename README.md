@@ -23,9 +23,9 @@ Keeper App is a React-based note-taking web application inspired by Google Keep.
 
 ## Demo
 
-> **Live Demo:** [Keeper App](https://your-demo-link-here.com)
+> **Live Demo:** [Keeper App](https://avaneesh40585.github.io/Keeper-App/)
 
-![Keeper-app-demo](https://github.com/user-attachments/assets/922e3281-170a-459c-89b5-00f20a583ee5)
+![Keeper-app-demo](https://github.com/user-attachments/assets/1871fc35-dbb4-4129-b049-03a6c35975f2)
 
 ---
 
